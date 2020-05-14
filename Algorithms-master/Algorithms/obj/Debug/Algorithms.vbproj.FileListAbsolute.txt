@@ -1,0 +1,15 @@
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.vbprojAssemblyReference.cache
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.EuclideanAlgorithmForm.resources
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.Form1.resources
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.Resources.resources
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.SimpleAlgorithmsForm.resources
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.ZenoAlgorithmForm.resources
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.vbproj.GenerateResource.cache
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.vbproj.CoreCompileInputs.cache
+E:\Algorithms-master\Algorithms\bin\Debug\Algorithms.exe.config
+E:\Algorithms-master\Algorithms\bin\Debug\Algorithms.exe
+E:\Algorithms-master\Algorithms\bin\Debug\Algorithms.pdb
+E:\Algorithms-master\Algorithms\bin\Debug\Algorithms.xml
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.exe
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.xml
+E:\Algorithms-master\Algorithms\obj\Debug\Algorithms.pdb
